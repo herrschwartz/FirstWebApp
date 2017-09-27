@@ -1,0 +1,8 @@
+api_version: go1
+d9b20bde_635ee445_40e4dd6d_4e7ea0ba_a2b09a73 Appmain.go
+4f7cd20f_d06076a9_e7b86b6d_114d523c_258272a9 code.google.com/p/google-api-go-client/googleapi/googleapi.go
+01c1d6c4_1518b537_32445631_85e88398_55663b3c code.google.com/p/google-api-go-client/googleapi/internal/uritemplates/uritemplates.go
+bfb1e3d0_27371c6d_c0391c82_b35473d6_8777cd5f code.google.com/p/google-api-go-client/googleapi/internal/uritemplates/utils.go
+1bdb08d8_491b3b6f_e75a8b5e_5a04d640_e237efab code.google.com/p/google-api-go-client/googleapi/transport/apikey.go
+a320ec15_59eafd73_76912cc8_c70bf896_77abe8a2 code.google.com/p/google-api-go-client/googleapi/types.go
+d66932ea_f116013a_8e2642b1_bce41ff7_8c1afe05 code.google.com/p/google-api-go-client/youtube/v3/youtube-gen.go

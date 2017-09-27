@@ -1,0 +1,13 @@
+application: tims-super-cool-app
+version: 1
+runtime: go
+api_version: go1
+
+handlers:
+- url: /images
+  static_dir: public/assets/images
+
+- url: /.*
+  script: _go_app
+  login: required
+
